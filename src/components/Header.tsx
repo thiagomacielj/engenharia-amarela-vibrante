@@ -23,7 +23,7 @@ const Header = () => {
               <Wrench className="w-6 h-6 text-engineering-black" />
             </div>
             <span className="text-xl font-bold text-engineering-yellow">
-              EngPro
+             Borba Engenharia 
             </span>
           </div>
 
